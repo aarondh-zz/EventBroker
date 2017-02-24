@@ -4,7 +4,7 @@
   "description": "Calendar.Help",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aarondh/EventBrokerService"
+    "url": "https://github.com/aarondh/EventBroker"
   },
   "author": "Aaron G. Daisley-Harrison",
   "license": "GPL-3.0",
